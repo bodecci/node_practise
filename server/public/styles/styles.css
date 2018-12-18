@@ -1,0 +1,20 @@
+body {
+    background-color: #eeeeee;
+    font-family: courier;
+}
+
+#displayMonthly {
+    text-align: right;
+}
+
+#header-container {
+    background-color: lightslategray;
+    height: 150px;
+    margin: 10px;
+    padding: 80;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    text-align: center
+}
